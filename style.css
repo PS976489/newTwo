@@ -1,0 +1,284 @@
+#container
+{
+	width: 90%;
+	background-color: white;
+	margin: auto;
+}
+#header
+{
+
+	width: 100%;
+	height: 100px;
+	background-color: deeppink;
+}
+#logo
+{
+	width: 100px;
+	height: 50px;
+	/*margin-left: 20px;*/
+	padding: 25px;
+}
+#header h1
+{
+	text-align: center;
+	margin-top: -90px;
+	color: white;
+}
+#social 
+{ 
+	     width: 150px;
+	     height: 50px;
+	    /* border:1px solid black;*/
+	     float: right;
+	     margin-top: -60px;
+}
+#social img 
+{
+	         width: 25px;
+             margin-left: 10px;
+             border-radius: 10px;
+}
+
+a
+{
+	text-decoration: none;
+}
+#social img:hover
+{
+	width: 40px;
+	background-color: black;
+	color: white;
+	box-shadow: 5px 0 3px blue;
+}
+#menu ul li 
+{
+    display: inline;
+    margin-left: 50px;
+    padding: 4px;
+}
+#menu a
+{
+	color: black;
+	padding: 4px;
+}
+#menu ul a:hover
+{
+	box-shadow: 5px 4px 0 blue;
+	background-color: purple;
+}
+#footer
+{
+	padding: 10px;
+	background-color: gray;
+}
+.foot
+{
+   width: 23%;
+   padding: 5px;
+   float: left;
+   margin-left: 5px;
+   /*border:1px solid black;*/
+}
+.foot h2
+{
+	text-align: center;
+	color: deeppink;
+}
+
+.foot h2:hover
+{
+	color:pink;
+}
+.foot ul li
+{
+	width: 100px;
+	padding: 5px;
+	font-size: 15px;
+}
+
+ul li
+{
+	list-style: none;
+}
+
+.foot ul li:hover
+{
+	color: deeppink;
+}
+#footer1
+{
+	padding: 40px;
+	background-color: white;
+}
+
+#sec
+{
+   width: 23%;
+   padding: 5px;
+   float: left;
+   margin-left: 5px;
+   /*border:1px solid black;*/
+
+}
+ #sec img
+{
+	width: 50px;
+	float: left;
+	margin-top: -30px;
+	padding: 40px;
+}
+
+#sec img:hover
+{
+	width: 40px;
+	background-color: hotpink;
+	color: white;
+	box-shadow: 5px 0 3px black;
+}
+
+#sec hr
+{
+	border: 1px solid  black;
+	margin-top: -20px;
+	width: 120px;
+
+}
+
+#copy{
+	  text-align: center;
+      background-color: hotpink;
+      color: white;
+      padding: 10px;
+      margin-top: 0px;
+  }
+
+#banner
+{
+	width: 100%;
+	height: 500px;
+	/*border: 1px solid black;*/
+	background-color: pink;
+}
+
+#banner img
+{
+	width: 100%;
+	height: 500px;
+
+}
+.box
+{
+	width: 22%;
+	/*height: 200px;*/
+	/*border: 1px solid black;*/
+	float: left;
+	margin-left: 25px;
+	/*background-color: white;*/
+
+}
+
+.box img
+{
+	width: 100%;
+	height: 200px;
+
+}
+
+.box h4
+{
+	margin-top: 0px;
+	text-align: center;
+}
+.box button
+{
+	background-color: pink;
+	height:40px;
+}
+
+#banner1
+{
+
+	width: 100%;
+	height: 300px;
+	/*border :1px solid black;*/
+}
+#banner1 img
+{
+	width: 100%;
+	height: 300px;
+}
+.box1
+{
+	width: 22%;
+	height: 200px;
+	border: 10px solid lightcoral;
+	float: left;
+	padding: 5px;
+	margin-left: 5px;
+	background-color: white;
+}
+.box1 h1
+{
+	text-align: center;
+	color: goldenrod;
+	padding: 50px;
+}
+.box2
+{
+	width: 30%;
+	height: 350px;
+	/*border: 1px solid black;*/
+	float: left;
+	padding: 10px;
+	margin-left: 15px;
+}
+.box2 img
+{
+	width: 100%;
+	height: 350px;
+}
+
+.box3
+{
+	width: 30%;
+	height: 350px;
+	/*border: 1px solid black;*/
+	float: left;
+	padding: 10px;
+	margin-left: 15px;
+}
+.box3 img
+{
+	width: 100%;
+	height: 350px;
+}
+
+.box4
+{
+	width: 30%;
+	height: 350px;
+	/*border: 1px solid black;*/
+	float: left;
+	padding: 10px;
+	margin-left: 15px;
+}
+.box4 img
+{
+	width: 100%;
+	height: 350px;
+}
+
+.box5
+{
+	width: 30%;
+	height: 350px;
+	/*border: 1px solid black;*/
+	float: left;
+	padding: 10px;
+	margin-left: 15px;
+}
+.box5 img
+{
+	width: 100%;
+	height: 350px;
+}
